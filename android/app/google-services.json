@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390507379143",
+    "project_id": "colordata",
+    "storage_bucket": "colordata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390507379143:android:d2719f90a3f49511cac1e2",
+        "android_client_info": {
+          "package_name": "com.example.colorchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF05Ut8y75AUrumikEymE7DjHunPCG28w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
