@@ -22,7 +22,8 @@ color and object information are stored in Firestore.
 ## Getting Started
 
 install flutter, Android studio, Android emulator, Visual studio 
-## run flutter pub get, flutter run
+## Run
+run flutter pub get, flutter run
 
 This project is a starting point for a Flutter application.
 
